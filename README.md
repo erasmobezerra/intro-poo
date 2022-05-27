@@ -1,3 +1,1 @@
-Use todo seu conhecimento para estender o domínio, incluindo novas classes, atributos e métodos.
-
-Incluir o Lombok ao projeto para reduzir sua verbosidade de código. 
+Projeto desenvolvido durante o curso Criando um Banco Digital com Java Orientado a Objetos, na plataforma Digital Innovation One.
